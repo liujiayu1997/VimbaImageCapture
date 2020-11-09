@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VimbaImageCapture", "VimbaImageCapture\VimbaImageCapture.vcxproj", "{FF852BCF-B203-4324-8777-9C3DED1CA503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF852BCF-B203-4324-8777-9C3DED1CA503}.Debug|x64.ActiveCfg = Debug|x64
+		{FF852BCF-B203-4324-8777-9C3DED1CA503}.Debug|x64.Build.0 = Debug|x64
+		{FF852BCF-B203-4324-8777-9C3DED1CA503}.Release|x64.ActiveCfg = Release|x64
+		{FF852BCF-B203-4324-8777-9C3DED1CA503}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E86AEF6-B11A-4D41-BAAD-2F450CF178B8}
+	EndGlobalSection
+EndGlobal
